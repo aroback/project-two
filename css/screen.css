@@ -1,0 +1,38 @@
+/* screen.css--styles for the screen */
+
+
+
+body {
+margin-left: auto;
+margin-right: auto;
+background-color: red;
+}
+
+div#page {
+width: 960px;
+padding-left: 10px;
+padding-right: 10px;
+border-left: 1px solid;
+border-right: 1px solid;
+background-color: gray;
+margin-left: auto;
+margin-right: auto;
+}
+
+div#header {
+width: 920px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+height: 150px;
+background-color: yellow;
+}
+
+div#header h1 {
+font-size: 200%;
+font-family: verdana, garamond, serif;
+}
+
+
+
+
