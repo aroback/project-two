@@ -23,6 +23,8 @@ div#header {
 width: 920px;
 margin-left: 10px;
 margin-right: 10px;
+padding-left: 10px;
+padding-right: 10px;
 margin-bottom: 10px;
 height: 150px;
 background-color: yellow;
@@ -33,6 +35,19 @@ font-size: 200%;
 font-family: verdana, garamond, serif;
 }
 
+div#navigation {
+position: absolute;
+margin-left: 10px;
+width: 140px;
+background-color: blue;
+}
 
+div#frontpage_intro {
+position: absolute;
+width: 790px;
+margin-bottom: 20px;
+margin-left: 160px;
+background-color: white;
+}
 
 
