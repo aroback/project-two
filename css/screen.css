@@ -3,9 +3,11 @@
 
 
 body {
-margin-left: auto;
-margin-right: auto;
 background-color: red;
+}
+
+img {
+position: absolute;
 }
 
 div#page {
@@ -21,6 +23,7 @@ margin-right: auto;
 }
 
 div#header {
+position: relative;
 width: 920px;
 margin-left: 10px;
 margin-right: 10px;
