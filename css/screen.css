@@ -82,6 +82,19 @@ background-color: #ffffff;
 opacity:0.5;
 }
 
+div#front_content h2 {
+color: blue;
+font-weight: bold;
+font-size: 150%;
+font-family: helvetica, arial, sans-serif;
+}
+
+div#front-content p {
+color: black;
+font-size: 100%;
+font-family: "Times New Roman", serif;
+}
+
 div#redirect_area {
 position: absolute;
 margin-left: 700px;
