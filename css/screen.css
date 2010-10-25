@@ -6,7 +6,7 @@ body {
 background-color: red;
 }
 
-img {
+body img {
 position: absolute;
 }
 
@@ -31,12 +31,20 @@ padding-left: 10px;
 padding-right: 10px;
 margin-bottom: 10px;
 height: 150px;
-background-color: yellow;
 }
 
+
+
 div#header h1 {
+font-size: 250%;
+font-family: verdana, garamond, serif;
+color: blue;
+}
+
+div#header h2 {
 font-size: 200%;
 font-family: verdana, garamond, serif;
+color: blue;
 }
 
 div#navigation {
