@@ -30,9 +30,10 @@ margin-right: 10px;
 padding-left: 10px;
 padding-right: 10px;
 margin-bottom: 10px;
-height: 150px;
+height: 150px;  
+background-color: #ffffff;
+opacity:0.6;
 }
-
 
 
 div#header h1 {
@@ -53,6 +54,8 @@ margin-left: 10px;
 width: 130px;
 height: 420px;
 padding-left: 10px;
+background-color: #ffffff;
+opacity:0.6;
 }
 
 div#frontpage_intro {
@@ -63,6 +66,8 @@ margin-bottom: 20px;
 margin-left: 160px;
 padding-left: 10px;
 padding-right: 10px;
+background-color: #ffffff;
+opacity:0.6;
 }
 
 div#front_content {
@@ -73,6 +78,8 @@ margin-top: 120px;
 margin-bottom: 10px;
 margin-left: 160px;
 padding-left: 10px;
+background-color: #ffffff;
+opacity:0.6;
 }
 
 div#redirect_area {
@@ -83,6 +90,8 @@ padding-left: 10px;
 padding-right: 10px;
 width: 230px;
 height: 300px;
+background-color: #ffffff;
+opacity:0.6;
 }
 
 div#footer {
@@ -93,6 +102,8 @@ padding-left: 10px;
 padding-right: 10px;
 width: 920px;
 height: 150px;
+background-color: #ffffff;
+opacity:0.6;
 }
 
 
