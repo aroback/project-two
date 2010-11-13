@@ -73,6 +73,17 @@ padding-right: 10px;
 background-color: #ffffff;
 }
 
+/*Essentially the same as frontpage_intro, but not height restriction*/
+div#content_wide {
+position: absolute;
+width: 770px;
+margin-bottom: 20px;
+margin-left: 160px;
+padding-left: 10px;
+padding-right: 10px;
+background-color: #ffffff;
+}
+
 div#front_content {
 position: absolute;
 width: 520px;
