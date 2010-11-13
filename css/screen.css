@@ -62,6 +62,10 @@ padding-left: 10px;
 background-color: #ffffff;
 }
 
+div#cv_navbar a {
+font-style: bold;
+}
+
 div#intro {
 position: absolute;
 width: 770px;
@@ -77,6 +81,7 @@ background-color: #ffffff;
 div#content_wide {
 position: absolute;
 width: 770px;
+margin-top: 100px;
 margin-bottom: 20px;
 margin-left: 160px;
 padding-left: 10px;
