@@ -62,7 +62,7 @@ padding-left: 10px;
 background-color: #ffffff;
 }
 
-div#frontpage_intro {
+div#intro {
 position: absolute;
 width: 770px;
 height: 100px;
@@ -73,7 +73,7 @@ padding-right: 10px;
 background-color: #ffffff;
 }
 
-/*Essentially the same as frontpage_intro, but not height restriction*/
+/*Essentially the same as intro, but no height restriction*/
 div#content_wide {
 position: absolute;
 width: 770px;
