@@ -29,6 +29,11 @@ background-color: #ffffff;
 }
 
 
+div#header a {
+text-decoration: none;
+color: blue;
+}
+
 div#header h1 {
 font-size: 250%;
 font-family: verdana, garamond, serif;
