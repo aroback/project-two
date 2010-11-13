@@ -63,7 +63,12 @@ background-color: #ffffff;
 }
 
 div#cv_navbar li {
+font-size: small;
 display: inline;
+position: relative;
+border: 1px solid;
+padding: 2px;
+margin: 2px;
 }
 
 div#intro {
