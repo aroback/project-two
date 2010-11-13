@@ -72,6 +72,10 @@ padding-left: 10px;
 background-color: #ffffff;
 }
 
+#front_content p {
+padding-bottom: 10px
+}
+
 div#front_content h2 {
 color: blue;
 font-weight: bold;
