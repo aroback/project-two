@@ -62,8 +62,8 @@ padding-left: 10px;
 background-color: #ffffff;
 }
 
-div#cv_navbar a {
-font-style: bold;
+div#cv_navbar li {
+display: inline;
 }
 
 div#intro {
