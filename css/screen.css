@@ -106,6 +106,12 @@ border: 1px solid;
 border-color: black;
 }
 
+div#content_wide img.adobe {
+border: none;
+padding-top: 2px;
+padding-right: 2px;
+}
+
 div#front_content {
 position: relative;
 width: 520px;
