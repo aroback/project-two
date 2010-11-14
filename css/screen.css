@@ -158,16 +158,18 @@ background-color: #ffffff;
 }
 
 div#gallery_nav .left {
-float: left;
-padding-right: 10px;
+position: absolute;
 }
 
 div#gallery_nav .right {
-float: right;
-padding-left: 10px;
+position: absolute;
+margin-left: 800px;
 }
 
 div#gallery_nav p {
+position: relative;
+width: 590px;
+margin-left: 200px;
 text-align: center;
 }
 
