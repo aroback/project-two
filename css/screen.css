@@ -167,6 +167,16 @@ float: right;
 padding-left: 10px;
 }
 
+div#gallery_nav p {
+text-align: center;
+}
+
+div#gallery_return {
+position: relative;
+text-align: center;
+margin-top: 20px;
+}
+
 div#gallery_img {
 margin-top: 60px;
 text-align: center;
