@@ -94,6 +94,10 @@ padding-right: 10px;
 background-color: #ffffff;
 }
 
+div#content_wide img {
+border: 1px solid
+}
+
 div#front_content {
 position: relative;
 width: 520px;
