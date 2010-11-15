@@ -58,7 +58,7 @@ font-weight: bold;
 
 div#accessible_nav {
 position: absolute;
-padding-left: -10000px;
+margin-left: -10000px;
 }
 
 
