@@ -86,6 +86,7 @@ background-color: #ffffff;
 div#content_wide {
 position: relative;
 width: 770px;
+min-height: 450px;
 margin-top: 50px;
 margin-bottom: 20px;
 margin-left: 160px;
