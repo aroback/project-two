@@ -75,19 +75,20 @@ padding-left: 15px;
 }
 
 div#cv_navbar {
+position: relative;
+margin-left: 160px;
 height: 30px;
 background-color: green;
 }
 
+
 div#intro {
-position: absolute;
+position: relative;
 width: 770px;
-height: 100px;
-margin-bottom: 20px;
 margin-left: 160px;
 padding-left: 10px;
 padding-right: 10px;
-background-color: #ffffff;
+padding-bottom: 10px;
 }
 
 
@@ -95,7 +96,7 @@ div#content_wide {
 position: relative;
 width: 770px;
 min-height: 450px;
-margin-top: 50px;
+margin-top: 20px;
 margin-bottom: 20px;
 margin-left: 160px;
 padding-left: 10px;
@@ -144,7 +145,7 @@ div#narrow_content {
 position: relative;
 width: 520px;
 min-height: 450px; /*adjust min-height if additional images run into the footer in #right_image_area*/
-margin-top: 120px;
+margin-top: 20px;
 margin-bottom: 10px;
 margin-left: 160px;
 padding-left: 10px;
@@ -155,12 +156,13 @@ background-color: #ffffff;
 div#right_image_area { 
 position: absolute;
 margin-left: 700px;
-margin-top: 120px;
+margin-top: 20px;
 padding-left: 10px;
 padding-right: 10px;
 width: 230px;
 background-color: #ffffff;
 }
+
 
 div#footer {
 position: absolute;
