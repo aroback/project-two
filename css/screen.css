@@ -56,6 +56,11 @@ line-height: 2.0;
 font-weight: bold;
 }
 
+div#accessible_nav {
+position: absolute;
+padding-left: -10000px;
+}
+
 
 div#cv_navbar {
 position: relative;
