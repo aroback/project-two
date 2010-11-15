@@ -169,20 +169,21 @@ background-color: #50A6C2;
 
 div#gallery_nav .left {
 position: absolute;
-margin-left: 10px;
+margin-left: 5px;
 }
 
 div#gallery_nav .right {
 position: absolute;
-margin-left: 750px;
+margin-left: 745px;
 }
 
 div#gallery_nav p {
 position: relative;
-width: 520px;
-margin-left: 220px;
+width: 530px;
+margin-left: 210px;
 text-align: center;
 }
+
 
 div#gallery_return {
 position: relative;
