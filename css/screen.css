@@ -3,8 +3,12 @@
 
 
 body {
-background-image: url('../images/background_5.jpg');
+background-image: url('../images/background_6.jpg');
 background-repeat: repeat-x;
+}
+
+html {
+background-color: #B5B5B5;
 }
 
 .construction p {/*To be employed duing site construction*/
