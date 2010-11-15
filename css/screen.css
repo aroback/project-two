@@ -174,7 +174,7 @@ background-color: #D6D6D6;
 }
 
 div#footer {
-position: absolute;
+position: relative;
 padding-top:10px;
 padding-left: 10px;
 width: 940px;
